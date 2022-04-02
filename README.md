@@ -1,2 +1,2 @@
 # kernel-convolution
-A code for using defined kernels to convolute
+A code for using defined kernels to convolute images
